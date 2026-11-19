@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946608385178",
+    "project_id": "clique-5664c",
+    "storage_bucket": "clique-5664c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946608385178:android:b5e2ed922874d449810323",
+        "android_client_info": {
+          "package_name": "com.zubair.clique"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEA5YOm4gYI91krqcazGtPEfgXPmQ-l0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
